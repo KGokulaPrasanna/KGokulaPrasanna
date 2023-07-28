@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm K Gokula Prasanna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=coding++gif&tbm=isch&ved=2ahUKEwjg3czLxbGAAxXS3DgGHde7D6wQ2-cCegQIABAA&oq=coding++gif&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECdQixBYixBg0BNoAHAAeACAAY0BiAGHApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=aMfDZOCJAtK54-EP1_e-4Ao&bih=739&biw=1519&hl=en#imgrc=5aTEtXgFsXLpZM&imgdii=4ybXTXpOLO5jyM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgokulaprasanna&label=Profile%20views&color=0e75b6&style=flat" alt="kgokulaprasanna" /> </p>
 
